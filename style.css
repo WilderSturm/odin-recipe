@@ -1,0 +1,29 @@
+h1 {
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+.list {
+    font-size: 24px;
+}
+
+img {
+    width: 900px; 
+    height: auto; 
+    display: block; 
+    margin: auto;"
+}
+
+h5 {
+    text-align: center;
+}
+
+.ads {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ingredient,
+.step {
+    font-size: 24px;
+}
